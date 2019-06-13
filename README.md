@@ -12,7 +12,7 @@ Remaining Work
 ==============
 
 Plan
-____
+----
 
 Should be 2 buttons:
   - Quick Add
